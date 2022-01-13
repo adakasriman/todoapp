@@ -1,6 +1,3 @@
-.App {
-  text-align: center;
-}
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +33,38 @@
     transform: rotate(360deg);
   }
 }
+
+
+.item {
+  margin: 4px 0;
+}
+
+.todoItem {
+  margin: 5px 0 5px 20px;
+}
+
+.padding {
+  padding: 0 20px;
+}
+
+.checkBox {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.lineThough {
+  text-decoration: line-through;
+}
+
+.inputBox {
+  width: 85%;
+  padding: 5px;
+  border: 1px solid green;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.add-btn{
+  margin-right: 20px;
+}
+
